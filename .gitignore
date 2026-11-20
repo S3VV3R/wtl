@@ -1,0 +1,10 @@
+node_modules/
+*.log
+
+# Local development files
+.env*
+!.env.example
+.vscode/
+.DS_Store
+Thumbs.db
+Welcome-to-Leonida.html
